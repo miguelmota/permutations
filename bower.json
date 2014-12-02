@@ -1,0 +1,21 @@
+{
+  "name": "permutations",
+  "main": "permutations.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/permutations",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Find all permutations of a string",
+  "keywords": [
+    "permutations"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
