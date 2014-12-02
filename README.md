@@ -1,4 +1,4 @@
-# permutation
+# permutations
 
 Find all permutations of string
 
